@@ -11,39 +11,47 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+  - name: Amazon Web Services (AWS)
+    logo: /images/sections/skills/aws.jpg
+    summary: "Amazon Web Services (AWS) is a collection of remote computing services that together make up a cloud computing platform, offered by Amazon."
+    url: "https://aws.amazon.com/"
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+  - name: Cloud Security
+    logo: /images/sections/skills/aws.jpg # TODO: update the logo
+    summary: "Cloud computing security or, more simply, cloud security refers to a broad set of policies, technologies, applications, and controls utilized to protect virtualized IP, data, applications, services, and the associated infrastructure of cloud computing."
+    url: "https://aws.amazon.com/" # TODO: update the URL
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  - name: Zero Trust
+    logo: /images/sections/skills/aws.jpg # TODO: update the logo
+    summary: "Zero trust is a security concept centered on the belief that organizations should not automatically trust anything inside or outside its perimeters and instead must verify anything and everything trying to connect to its systems before granting access."
+    url: "https://aws.amazon.com/" # TODO: update the URL
 
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
+  - name: DevOps
+    logo: /images/sections/skills/aws.jpg # TODO: update the logo
+    summary: "DevOps is a set of practices that combines software development (Dev) and IT operations (Ops)."
+    url: "https://aws.amazon.com/" # TODO: update the URL
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
+  - name: Infrastucture as Code (IaC)
+    logo: /images/sections/skills/aws.jpg # TODO: update the logo with the terraform logo
+    summary: "Infrastructure as code (IaC) is the process of managing and provisioning computer data centers through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools."
+    url: "https://aws.amazon.com/" # TODO: update the URL
 
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  - name: CI/CD
+    logo: /images/sections/skills/aws.jpg # TODO: update the logo
+    summary: "Continuous integration/Continuous deployment (CI/CD) is a method to frequently deliver apps to customers by introducing automation into the stages of app development."
+    url: "https://aws.amazon.com/" # TODO: update the URL
 
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  url: "https://git-scm.com/"
+  - name: Containerization
+    logo: /images/sections/skills/docker.svg
+    summary: "Docker is a set of platform as a service (PaaS) products that use OS-level virtualization to deliver software in packages called containers."
+    url: "https://www.docker.com/"
 
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  - name: Software Development
+    logo: /images/sections/skills/aws.jpg # TODO: update the logo
+    summary: "Software development is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components."
+    url: "https://aws.amazon.com/" # TODO: update the URL
+
+  - name: Git
+    logo: /images/sections/skills/git.png
+    summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+    url: "https://git-scm.com/"
