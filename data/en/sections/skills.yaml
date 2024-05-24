@@ -13,45 +13,45 @@ section:
 skills:
   - name: Amazon Web Services (AWS)
     logo: /images/sections/skills/aws.jpg
-    summary: "Amazon Web Services (AWS) is a collection of remote computing services that together make up a cloud computing platform, offered by Amazon."
+    summary: "AWS Certified with multiple years of experience in architecting, deploying, and managing workloads in multi-account environments. Highly experienced in services such as ECS, EC2, ELB, S3, and VPC."
     url: "https://aws.amazon.com/"
 
   - name: Cloud Security
-    logo: /images/sections/skills/aws.jpg # TODO: update the logo
-    summary: "Cloud computing security or, more simply, cloud security refers to a broad set of policies, technologies, applications, and controls utilized to protect virtualized IP, data, applications, services, and the associated infrastructure of cloud computing."
-    url: "https://aws.amazon.com/" # TODO: update the URL
+    logo: /images/sections/skills/cloud-security.jpeg
+    summary: "Aligned workloads with the Well-Architected framework's Security Pillar by implementing best practices and solutions from the Security Reference Architecture (SRA)."
+    url: "https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/architecture.html"
 
   - name: Zero Trust
-    logo: /images/sections/skills/aws.jpg # TODO: update the logo
-    summary: "Zero trust is a security concept centered on the belief that organizations should not automatically trust anything inside or outside its perimeters and instead must verify anything and everything trying to connect to its systems before granting access."
-    url: "https://aws.amazon.com/" # TODO: update the URL
+    logo: /images/sections/skills/zt.png
+    summary: "Actively researching and developing a Zero Trust Architecture in the domain of CI/CD to secure the Software Supply Chain in accordance with the DoD ZT Strategy."
+    url: "https://www.dau.edu/zerotrust"
 
   - name: DevOps
-    logo: /images/sections/skills/aws.jpg # TODO: update the logo
-    summary: "DevOps is a set of practices that combines software development (Dev) and IT operations (Ops)."
-    url: "https://aws.amazon.com/" # TODO: update the URL
+    logo: /images/sections/skills/devops.jpeg
+    summary: "Multiple years of experience working with teams that work in a DevOps culture to deliver applications and services at high velocity."
+    url: "https://aws.amazon.com/devops/what-is-devops/"
 
   - name: Infrastucture as Code (IaC)
-    logo: /images/sections/skills/aws.jpg # TODO: update the logo with the terraform logo
-    summary: "Infrastructure as code (IaC) is the process of managing and provisioning computer data centers through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools."
-    url: "https://aws.amazon.com/" # TODO: update the URL
+    logo: /images/sections/skills/tf.svg
+    summary: "Developed and tested IaC to deploy and manage infrastructure on AWS using Terraform, the AWS CDK, and CloudFormation."
+    url: "https://www.terraform.io/"
 
   - name: CI/CD
-    logo: /images/sections/skills/aws.jpg # TODO: update the logo
-    summary: "Continuous integration/Continuous deployment (CI/CD) is a method to frequently deliver apps to customers by introducing automation into the stages of app development."
-    url: "https://aws.amazon.com/" # TODO: update the URL
+    logo: /images/sections/skills/circleci.png
+    summary: "Developed and maintained CI/CD pipelines for multiple projects using services such as CircleCI, GitHub Actions, and Azure Pipelines."
+    url: "https://circleci.com/"
 
   - name: Containerization
     logo: /images/sections/skills/docker.svg
-    summary: "Docker is a set of platform as a service (PaaS) products that use OS-level virtualization to deliver software in packages called containers."
+    summary: "Written Dockerfile to containerize applications and services for local docker compose development environments, and production ECS deployments."
     url: "https://www.docker.com/"
 
   - name: Software Development
-    logo: /images/sections/skills/aws.jpg # TODO: update the logo
-    summary: "Software development is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components."
-    url: "https://aws.amazon.com/" # TODO: update the URL
+    logo: /images/sections/skills/go.png
+    summary: "Designed and developed RESTful APIs, and event-driven applications using Go, Typescript, and Python."
+    url: "https://www.ibm.com/topics/software-development"
 
   - name: Git
     logo: /images/sections/skills/git.png
-    summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+    summary: "Multiple years of experience using Git for version control and collaboration with development teams. Proficient in Git workflows such as Gitflow and GitHub Flow."
     url: "https://git-scm.com/"
